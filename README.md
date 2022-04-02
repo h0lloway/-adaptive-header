@@ -1,1 +1,1 @@
-# -adaptive-header
+# adaptive-header
